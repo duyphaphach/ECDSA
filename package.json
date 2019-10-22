@@ -9,11 +9,11 @@
     "build": "parcel build <your entry file>"
   },
   "dependencies": {
-    "big-integer": "^1.6.36",
+    "big-integer": "^1.6.44",
     "bootstrap": "^4.1.3",
     "font-awesome": "^4.7.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.4.1",
     "js-sha256": "^0.9.0",
-    "popper.js": "^1.14.4"
+    "popper.js": "^1.15.0"
   }
 }
